@@ -1,2 +1,2 @@
 # hoodiefox.github.io
-can also be found on https://catboys.wiki
+can also be found at https://catboys.wiki
